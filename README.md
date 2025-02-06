@@ -5,6 +5,7 @@
 [Google Drive Link](https://drive.google.com/drive/folders/1ncN31YYLWbdVkMxpY8kEjxACpRXvsb77?usp=drive_link) 
 <br>Paste the file named as "GS_Model.joblib" which is the ML model in following folder :
 <br>   BSP Rakeforecaster/Rake_forcaster/estimator
+<br>   (You've to create the folder named "estimator")
 
 
 ## O v e r v i e w

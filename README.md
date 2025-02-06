@@ -59,7 +59,7 @@ css, js and the back-end
 includes the django
 framework.
 
- <img src="assets/Screenshot 2024-04-27 at 10.47.44 PM.png" alt="Workflow"/>
+<img width="857" alt="Image" src="https://github.com/user-attachments/assets/8a8081d1-2493-4e6e-a51d-e5b557fd9f48" />
 
 ### ML Libraries
 * Matplotlib
@@ -71,11 +71,11 @@ framework.
 * SVM
 * Random Forest
 
-###Model Evaluated
+### Model Evaluated
 * Linear Regressor
 * Support Vector Machine
 * Random Forest Regressor
 
- <img src="assets/Screenshot 2024-04-27 at 10.58.07 PM.png" alt="Workflow"/>
+<img width="295" alt="Image" src="https://github.com/user-attachments/assets/ed9f9715-f8ee-4718-aa80-d824b701714e" />
 
 Aong these three RandomForestRegressor ensemble methode showed highest accuracy with 93% and mean absolute error of 153 minutes approximately
